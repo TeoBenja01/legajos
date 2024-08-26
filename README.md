@@ -1,3 +1,0 @@
-# Django-Crud
-.
-# legajos
